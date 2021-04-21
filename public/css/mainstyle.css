@@ -1,0 +1,116 @@
+.navbar{
+  padding-left: 95px;
+  background-color: #3C8DBC;
+  height: 50px;
+  font-size: 16px;
+  padding-bottom: 10px;
+}
+
+.loginpadding{
+  padding-left:70px;
+}
+
+.whitecolorsearch{
+  color: white;
+}
+
+.ongoingfontsize{
+  font-size: 14px;
+}
+
+.card{
+  border: none;
+}
+
+form .form-control::-webkit-input-placeholder {
+  color: #E5E7E9;
+}
+
+form .form-control::-moz-placeholder {
+  color: #E5E7E9;
+}
+form .form-control:-ms-input-placeholder {
+  color: #E5E7E9;
+}
+form .form-control:placeholder {
+  color: #E5E7E9;
+}
+
+form input:focus {
+  background-color: yellow;
+}
+
+.borderongoing {
+  border-top: 3px solid #6495ED;
+}
+
+.borderlatest {
+  border-top: 3px solid #DCDCDC;
+}
+
+.navbar .nav-item{padding:4px 3px}
+
+.nav-item:hover{
+  background-color: #367FA9;
+}
+
+.fadeoutimage:hover{
+  opacity: 0.6;
+}
+
+.errorchat{
+  font-size: 13px;
+  font-family: "new courier";
+}
+
+.btn-group-xs > .btn, .btn-xs {
+  padding: .51rem .4rem;
+  font-size: .906rem;
+  line-height: .5;
+  border-radius: .2rem;
+  background-color: #3C8DBC;
+  border: none;
+
+}
+
+.btn-xs:hover{
+  background-color: #367FA9;
+  -webkit-appearance: none;
+}
+
+.btn-xs:focus{
+  background-color: #204D74 !important;
+  outline: none !important;
+  -webkit-appearance:none;
+  box-shadow: none !important;
+}
+
+.fadewhite:hover {
+  text-decoration: none;
+  opacity: 0.6;
+}
+
+.withoutfade:hover{
+  text-decoration: none;
+  opacity: 1;
+}
+
+.nounderlinenav:hover{
+  text-decoration: none;
+}
+
+.scrolltext{
+  background: 0;
+  overflow-y: scroll;
+}
+
+.textlimited{
+     width: 150px;
+     white-space: nowrap;
+     overflow: hidden;
+     text-overflow: ellipsis;
+}
+
+.pagination {
+   justify-content: center;
+}
